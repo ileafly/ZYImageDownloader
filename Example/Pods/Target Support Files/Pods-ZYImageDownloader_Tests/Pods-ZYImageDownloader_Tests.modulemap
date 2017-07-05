@@ -1,0 +1,6 @@
+framework module Pods_ZYImageDownloader_Tests {
+  umbrella header "Pods-ZYImageDownloader_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

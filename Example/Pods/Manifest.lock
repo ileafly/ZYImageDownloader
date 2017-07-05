@@ -1,0 +1,21 @@
+PODS:
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - ZYImageDownloader (0.1.0):
+    - SDWebImage
+
+DEPENDENCIES:
+  - ZYImageDownloader (from `../`)
+
+EXTERNAL SOURCES:
+  ZYImageDownloader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  ZYImageDownloader: 0044273055b612a8775400ef96eac72a26812410
+
+PODFILE CHECKSUM: 9ff184162bc3cf9c7ad54473ff7ce203aa22c02f
+
+COCOAPODS: 1.2.0

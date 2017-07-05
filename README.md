@@ -22,7 +22,7 @@ pod "ZYImageDownloader"
 
 ## Author
 
-luzhiyongGit, luzy@2345.com
+luzhiyongGit, luzhiyongmail@sohu.com
 
 ## License
 
