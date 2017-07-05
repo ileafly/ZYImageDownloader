@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZYImageDownloader_Example' do
+  pod 'ZYImageDownloader', :path => '../'
+
+  target 'ZYImageDownloader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
