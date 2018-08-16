@@ -1,17 +1,8 @@
----
-title: 利用SDWebImage下载图片
-date: 2017-07-05 15:04:20
-tags: iOS
----
 
-
-### 利用SDWebImage下载图片的原因
-
-近期项目中有一个关于开屏广告加的需求变更。需要客户端将一段时间内的开屏广告图都预先下载到本地，确保用户在网络不佳甚至断网的情况下都能看到我们的开屏广告。一般情况下我们都是通过`SDWebImage`来动态的加载网络图片，能不能通过`SDWebImage`来帮我们预先下载好图片呢？下面就来分享一下我是怎么通过`SDWebImage`预加载图片的 :)
 
 ### 封装好的下载类
 
-为了能方便的实现图片的下载，使用，移除等功能的调用，我封装了一个类[ZYImageDownloader](https://github.com/luzhiyongGit/ZYImageDownloader)，并且已经在github上开源，有兴趣的伙伴可以直接前往下载
+为了能方便的实现图片的下载，使用，移除等功能的调用，我封装了一个类ZYImageDownloader
 
 ### 原理分析
 
