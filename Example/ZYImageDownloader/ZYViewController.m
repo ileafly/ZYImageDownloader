@@ -10,7 +10,7 @@
 
 #import <ZYImageDownloader/ZYImageDownloader.h>
 
-#define IMAGE_URL  @"http://img.zuimeiui.com/res/2016/07/869f76c8741c019fb41bd225e399dd32-19.jpg"
+#define IMAGE_URL  @"https://cdn0-digiphoto-techbang.pixfs.net/system/images/122102/original/da5209c292ac1c6d0cf970aa260a83e5.jpg?1516243461"
 
 @interface ZYViewController ()
 
